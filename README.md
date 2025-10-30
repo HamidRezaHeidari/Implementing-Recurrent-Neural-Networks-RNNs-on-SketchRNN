@@ -2,12 +2,10 @@
 
 Recurrent Neural Networks (RNNs) are powerful architectures built to handle temporal and sequential data — where each new input depends on what came before. They’ve become essential in applications like speech recognition, handwriting analysis, and time-series prediction.
 
----
 
 🎨 In this project, I explored an RNN-based approach using the SketchRNN dataset — a structured dataset of vectorized sketches from Google’s QuickDraw project.
 Each sketch is represented as a sequence of pen strokes, making it an ideal testbed for sequence modeling.
 
----
 ## ⚙️ Model Overview
 
 The network includes:
