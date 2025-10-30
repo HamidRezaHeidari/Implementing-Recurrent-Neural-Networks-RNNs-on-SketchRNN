@@ -14,10 +14,10 @@ The network includes:
 -A Dense softmax output layer for classification across 5 sketch categories
 
 ## 🧩 Key Insights
-
-1️⃣The model learns to distinguish sketches purely from temporal stroke data, without relying on image pixels.
-2️⃣Despite the simplicity of the RNN architecture, it achieved strong accuracy and generalization on unseen sketches.
-3️⃣Demonstrates how sequence-based neural networks can understand human drawing behavior as dynamic, time-dependent data.
+  
+1️⃣The model learns to distinguish sketches purely from temporal stroke data, without relying on image pixels.          
+2️⃣Despite the simplicity of the RNN architecture, it achieved strong accuracy and generalization on unseen sketches.                
+3️⃣Demonstrates how sequence-based neural networks can understand human drawing behavior as dynamic, time-dependent data.             
 <br/>
 ✨Star if you find it useful
 
